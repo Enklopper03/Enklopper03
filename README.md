@@ -1,6 +1,6 @@
 ## Hi there 👋
 Here you can see my projects that i worked on:
-- Laravel backend projet
+- Laravel backend project
 - Safari tycoon game (java)
 - LEMEZBÁZIS webshop
 <!--
