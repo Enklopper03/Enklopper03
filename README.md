@@ -1,10 +1,15 @@
 ## Hi there 👋
-
+Here you can see my projects that i worked on:
+- Laravel backend projet
+- Safari tycoon game (java)
+- LEMEZBÁZIS webshop
 <!--
 **Enklopper03/Enklopper03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Here you can see my projects that i worked on:
+- Laravel backend projet
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
