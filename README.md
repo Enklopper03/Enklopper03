@@ -3,6 +3,7 @@ Here you can see my projects that i worked on:
 - Laravel backend project
 - Safari tycoon game (java)
 - LEMEZBÁZIS webshop
+- Python backend projects
 <!--
 **Enklopper03/Enklopper03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
